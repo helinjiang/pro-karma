@@ -1,0 +1,24 @@
+{
+  "name": "pro-karma",
+  "version": "0.0.1",
+  "description": "Some demos of Karma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helinjiang/pro-karma.git"
+  },
+  "keywords": [
+    "karma",
+    "mocha",
+    "chai"
+  ],
+  "author": "helinjiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helinjiang/pro-karma/issues"
+  },
+  "homepage": "https://github.com/helinjiang/pro-karma#readme"
+}
